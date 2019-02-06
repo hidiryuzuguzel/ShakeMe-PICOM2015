@@ -7,6 +7,8 @@ See the paper,
 
 for details.
 
+The code is written with Jupyter notebook, numpy, scipy, pandas, matplotlib, sklearn.
+
 If you use my code, please cite:
 
 @INPROCEEDINGS{7363362, 
